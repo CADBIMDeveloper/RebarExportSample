@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RebarExport</Text>
+    <Description>Some description for RebarExport</Description>
+    <Assembly>RebarExport.dll</Assembly>
+    <FullClassName>RebarExport.Commands.ExportRebarParametersCommand</FullClassName>
+    <ClientId>78efa09c-afd2-492f-b6de-28317914f3a1</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
